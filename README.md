@@ -49,19 +49,11 @@ goal - https://www.clipartmax.com/png/middle/263-2634359_minecraft-super-mario-b
 
 goblin - http://www.game-art-hq.com/84801/tomator-from-the-lost-vikings-series-game-art-and-an-overview/
 
-goomba -
-
-goomba2 -
-
-heart -
-
-heart2 -
 
 ladder - https://www.pinterest.com/pin/659566307911245653/
 
 LossScreen - https://media1.tenor.com/images/6d46c278bc8bea36adbced41f730981d/tenor.gif?itemid=12235828
 
-marioTitle -
 
 Metroid Title - https://i.pinimg.com/originals/a7/40/c3/a740c3ba061b8762be32c15c2ee40438.jpg
 
@@ -69,13 +61,7 @@ Vikings Title - https://ih1.redbubble.net/image.440353023.4832/fposter,small,wal
 
 metroidWall - https://www.pixilart.com/art/metroid-ground-tile-c-d629464c7d33d1b
 
-pauseButton -
-
-pirate - 
-
 playerobstacle - https://classicreload.com/lost-vikings.html
-
-shrinker - 
 
 spikes - https://www.pixilart.com/art/mini-spikes-c6478d0244c463f
 
