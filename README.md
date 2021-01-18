@@ -5,6 +5,8 @@ This project implements a player for multiple related games.
 
 Names: Sam Lamba, Roshni Penmatcha, Matt Bowman, Joe Heflin
 
+DEMO: doc/presentation4
+
 
 ### Timeline
 
